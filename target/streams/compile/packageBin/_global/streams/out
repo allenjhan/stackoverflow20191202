@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/allen/rep/stackoverflow20191202/target/scala-2.13/stackoverflow20191202_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RealConfLoader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes/RealConfLoader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Data.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes/Data.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RealSettings.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes/RealSettings.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestDependentTypes$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes/TestDependentTypes$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RealSettings$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes/RealSettings$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RealConf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes/RealConf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestDependentTypes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes/TestDependentTypes$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RealConf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes/RealConf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Conf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes/Conf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RealData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes/RealData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestDependentTypes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes/TestDependentTypes.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes/ConfLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MySettings.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes/MySettings.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RealData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes/RealData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RealConfLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allen/rep/stackoverflow20191202/target/scala-2.13/classes/RealConfLoader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
